@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>QIVI - Your AI Assistant</title>
+<style>
+body{background:#05050a;color:#fff;font-family:Inter;text-align:center;padding-top:100px}
+h1{font-size:3rem;color:#8b5cf6}
+.btn{display:inline-block;margin-top:30px;padding:16px 32px;background:#6366f1;color:#fff;text-decoration:none;border-radius:12px;font-weight:700}
+</style>
+</head>
+<body>
+<h1>QIVI</h1>
+<p>Your AI Assistant that remembers everything</p>
+<a href="dashboard.html" class="btn">Launch QIVI</a>
+</body>
+</html>
